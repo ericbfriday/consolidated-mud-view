@@ -1,0 +1,308 @@
+[
+  {
+    "name": "artemis-reverse-sandbox",
+    "branch": "master",
+    "uncommitted_changes": 0,
+    "last_commit": "2026-03-03 22:48:57 -0600",
+    "remote": "git@github.com:ericbfriday/artemis-reverse-sandbox.git",
+    "primary_extension": "png"
+  }
+,
+  {
+    "name": "big-agi",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2026-01-12 22:28:34 -0600",
+    "remote": "https://github.com/ericbfriday/big-AGI.git",
+    "primary_extension": "tsx"
+  }
+,
+  {
+    "name": "claude-flow-nexus",
+    "branch": "main",
+    "uncommitted_changes": 9,
+    "last_commit": "2025-09-24 20:49:58 -0500",
+    "remote": "git@github.com:ericbfriday/claude-flow-nexus.git",
+    "primary_extension": "js"
+  }
+,
+  {
+    "name": "clippyjs",
+    "branch": "master",
+    "uncommitted_changes": 8,
+    "last_commit": "2026-03-03 19:26:01 -0600",
+    "remote": "git@github.com:ericbfriday/clippyjs.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "consolidated-mud-view",
+    "branch": "main",
+    "uncommitted_changes": 2,
+    "last_commit": "2026-03-03 23:25:13 -0600",
+    "remote": "git@github.com:ericbfriday/consolidated-mud-view.git",
+    "primary_extension": "sh"
+  }
+,
+  {
+    "name": "DeMuddler",
+    "branch": "main",
+    "uncommitted_changes": 1,
+    "last_commit": "2026-02-26 08:20:54 +0100",
+    "remote": "https://github.com/Edru2/DeMuddler/",
+    "primary_extension": "go"
+  }
+,
+  {
+    "name": "discord-bot-starter-q1-2026",
+    "branch": "main",
+    "uncommitted_changes": 18,
+    "last_commit": "2026-02-20 08:57:39 -0600",
+    "remote": "git@github.com:ericbfriday/discord-bot-starter-q1-2026.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "duneagent",
+    "branch": "main",
+    "uncommitted_changes": 14,
+    "last_commit": "2026-02-10 21:16:05 -0600",
+    "remote": "git@github.com:ericbfriday/duneagent.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "dynmud",
+    "branch": "master",
+    "uncommitted_changes": 4,
+    "last_commit": "2025-11-21 23:20:37 -0600",
+    "remote": "git@github.com:ericbfriday/dynmud.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "enricos-big-agi-v2-dev",
+    "branch": "v2-dev",
+    "uncommitted_changes": 2,
+    "last_commit": "2025-03-10 12:15:21 -0700",
+    "remote": "https://github.com/enricoros/big-AGI.git",
+    "primary_extension": "tsx"
+  }
+,
+  {
+    "name": "goose-ralph-loop",
+    "branch": "main",
+    "uncommitted_changes": 33,
+    "last_commit": "2026-01-15 01:35:03 -0600",
+    "remote": "git@github.com:ericbfriday/MetaRalph.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "goosetown",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2026-02-25 08:30:07 -0500",
+    "remote": "git@github.com:ericbfriday/goosetown.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "jira-mcp-tool",
+    "branch": "main",
+    "uncommitted_changes": 8,
+    "last_commit": "2026-03-02 23:27:41 -0600",
+    "remote": "git@gitlab.com:efriday/jira-mcp-tool.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "magic-to-v0",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2025-11-11 09:51:25 -0600",
+    "remote": "git@github.com:ericbfriday/magic-to-v0.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "morph-via-openrouter",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2025-11-05 20:50:37 -0600",
+    "remote": "https://github.com/ericbfriday/morph-via-openrouter",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "mud-script-converter",
+    "branch": "main",
+    "uncommitted_changes": 1,
+    "last_commit": "2026-03-03 04:45:20 -0600",
+    "remote": "git@github.com:ericbfriday/mud-script-converter.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "muddy-fire",
+    "branch": "main",
+    "uncommitted_changes": 3,
+    "last_commit": "2025-02-25 03:28:36 -0600",
+    "remote": "git@github.com:ericbfriday/muddy-fire.git",
+    "primary_extension": "ts"
+  }
+,
+  {
+    "name": "mudlet-dune",
+    "branch": "main",
+    "uncommitted_changes": 7,
+    "last_commit": "2024-05-04 13:39:42 -0400",
+    "remote": "git@github.com:ericbfriday/mudlet-dune.git",
+    "primary_extension": "lua"
+  }
+,
+  {
+    "name": "mudlet-packages",
+    "branch": "main",
+    "uncommitted_changes": 1,
+    "last_commit": "2025-11-24 16:46:54 -0600",
+    "remote": "git@github.com:ericbfriday/mudlet-packages.git",
+    "primary_extension": "lua"
+  }
+,
+  {
+    "name": "mudlet-snd",
+    "branch": "main",
+    "uncommitted_changes": 8,
+    "last_commit": "2026-02-10 20:55:21 -0600",
+    "remote": "git@github.com:ericbfriday/mudlet-snd-full.git",
+    "primary_extension": "svn-base"
+  }
+,
+  {
+    "name": "njlg-dune-tintin",
+    "branch": "master",
+    "uncommitted_changes": 15,
+    "last_commit": "2020-03-13 16:30:15 -0700",
+    "remote": "git@github.com:ericbfriday/njlg-dune-tintin.git",
+    "primary_extension": "tin"
+  }
+,
+  {
+    "name": "oc-web",
+    "branch": "master",
+    "uncommitted_changes": 5,
+    "last_commit": "2025-12-18 16:22:59 -0800",
+    "remote": "git@github.com:ericbfriday/oc-web.git",
+    "primary_extension": "tsx"
+  }
+,
+  {
+    "name": "open-webui",
+    "branch": "main",
+    "uncommitted_changes": 1,
+    "last_commit": "2025-12-30 20:23:02 -0600",
+    "remote": "git@github.com:ericbfriday/open-webui.git",
+    "primary_extension": "svg"
+  }
+,
+  {
+    "name": "opencode-overlord",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2026-03-03 22:29:35 -0600",
+    "remote": "git@github.com:ericbfriday/opencode-overlord.git",
+    "primary_extension": "txt"
+  }
+,
+  {
+    "name": "ranvier-cloned",
+    "branch": "main",
+    "uncommitted_changes": 24,
+    "last_commit": "2026-01-28 04:29:46 -0600",
+    "remote": "none",
+    "primary_extension": "json"
+  }
+,
+  {
+    "name": "ranvier-monorepo",
+    "branch": "master",
+    "uncommitted_changes": 5,
+    "last_commit": "2025-12-28 06:43:53 -0600",
+    "remote": "git@github.com:ericbfriday/ranvier-ts-monorepo.git",
+    "primary_extension": "js"
+  }
+,
+  {
+    "name": "react-router-hono-fullstack-template",
+    "branch": "main",
+    "uncommitted_changes": 38,
+    "last_commit": "2026-02-20 10:23:06 -0600",
+    "remote": "git@github.com:ericbfriday/react-router-hono-fullstack-template.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "Realms-of-Dragonlcrlbs",
+    "branch": "feature/wip-1-1",
+    "uncommitted_changes": 38,
+    "last_commit": "2025-10-28 14:11:55 -0500",
+    "remote": "git@github.com:ericbfriday/Realms-of-Dragonlcrlbs.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "screeps",
+    "branch": "main",
+    "uncommitted_changes": 7,
+    "last_commit": "2025-12-30 23:16:34 -0600",
+    "remote": "none",
+    "primary_extension": "js"
+  }
+,
+  {
+    "name": "shift-rpg",
+    "branch": "main",
+    "uncommitted_changes": 0,
+    "last_commit": "2026-03-03 18:46:18 -0600",
+    "remote": "git@github.com:ericbfriday/shift-rpg.git",
+    "primary_extension": "md"
+  }
+,
+  {
+    "name": "skifree.js",
+    "branch": "master",
+    "uncommitted_changes": 5,
+    "last_commit": "2022-03-02 14:52:24 +0000",
+    "remote": "git@github.com:ericbfriday/skifree.js.git",
+    "primary_extension": "js"
+  }
+,
+  {
+    "name": "v0-clone",
+    "branch": "main",
+    "uncommitted_changes": 9,
+    "last_commit": "2025-11-19 23:57:37 -0600",
+    "remote": "none",
+    "primary_extension": "svg"
+  }
+,
+  {
+    "name": "vercel-hono-mcp-bun",
+    "branch": "main",
+    "uncommitted_changes": 4,
+    "last_commit": "2025-09-25 21:27:16 -0500",
+    "remote": "git@github.com:ericbfriday/vercel-hono-mcp-bun.git",
+    "primary_extension": "json"
+  }
+,
+  {
+    "name": "ZigStrike",
+    "branch": "main",
+    "uncommitted_changes": 3,
+    "last_commit": "2026-01-23 19:11:11 +0100",
+    "remote": "https://github.com/0xsp-SRD/ZigStrike/",
+    "primary_extension": "zig"
+  }
+
+]

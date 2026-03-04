@@ -4,7 +4,8 @@
 set -e
 
 DEV_DIR="$HOME/dev"
-OUTPUT_DIR="$(dirname "$0")/../data"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+OUTPUT_DIR="$SCRIPT_DIR/../data"
 REPOS=()
 
 echo "=== Consolidated Mud View - Repository Analysis ==="
